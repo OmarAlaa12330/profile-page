@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Joe mama",
+    "Membership": "option1",
+    "Age": "22",
+    "Weight": "84",
+    "Height": {
+      "Feet": "2",
+      "Inches": "3"
+    },
+    "Bio": "When does a joke become a dad's joke? when it becomes ap-parent"
+  }
+]

@@ -1,0 +1,38 @@
+.container-info{
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+}
+
+.header-container{
+    background-color: bisque;
+    display: flex;
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+    width: 100vw
+}
+
+.body> div{
+    width:33%;
+}
+
+.display-info:first-of-type{
+    border-right-color: black;
+    border-style: solid;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    border-right:1;
+}
+
+.display-info:last-of-type{
+    border-right-color: black;
+    border-style: solid;
+    border-left: 1;
+    border-top: none;
+    border-bottom: none;
+    border-right:none;
+}
